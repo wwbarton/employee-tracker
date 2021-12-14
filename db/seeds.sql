@@ -33,6 +33,6 @@ VALUES ('Accountant', 90000, 4);
 INSERT INTO role (title, salary, department_id)
 VALUES ('Receptionist', 40000, 3);
 INSERT INTO role (title, salary, department_id)
-VALUES ('Human Resource Officer', 75000, 5);
+VALUES ('Anthropologist', 75000, 5);
 INSERT INTO role (title, salary, department_id)
 VALUES ('Honcho', 250000, null);
