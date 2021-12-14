@@ -32,9 +32,9 @@ This application is covered by the MIT license.
 
 # Contributing
 
-# Tests
+# Youtube Link Tutorial
 
-# Questions
+https://youtu.be/YPFqpEN4lw0
 
 Contact me here with any questions: wwalt.barton@gmail.com
 

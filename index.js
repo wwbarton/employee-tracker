@@ -15,7 +15,7 @@ let connection = mysql.createConnection({
 connection.query = util.promisify(connection.query);
 connection.connect(function (err) {
   if (err) throw err;
-  console.log(figlet.textSync("Employee Finder", "Slant"));
+  console.log(figlet.textSync("Employee Finder!!!", "Slant"));
   startPrompt();
 });
 const startPrompt = async () => {
